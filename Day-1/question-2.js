@@ -23,5 +23,5 @@ var maximumOddBinaryNumber = function(s) {
     return s.join('')
 };
 
-const s = '1100'
+const s = '01000000'
 console.log(maximumOddBinaryNumber(s));
