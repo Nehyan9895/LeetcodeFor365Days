@@ -51,3 +51,5 @@ const power = 200;
 
 console.log(bagOfTokensScore(tokens,power));
 
+
+
