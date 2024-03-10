@@ -16,6 +16,8 @@
 // recyclable is an ENUM (category) of types ('Y', 'N') where 'Y' means this product is recyclable and 'N' means it is not.
 
 
-SELECT product_id 
-FROM Products 
-WHERE low_fats = 'Y' AND recyclable = 'Y';
+//​🇨​​🇴​​🇩​​🇪​ ​🇧​​🇪​​🇱​​🇴​​🇼​ ​🇩​​🇴​​🇼​​🇳​
+
+// SELECT product_id 
+// FROM Products 
+// WHERE low_fats = 'Y' AND recyclable = 'Y';
